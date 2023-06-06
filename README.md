@@ -1,9 +1,9 @@
 # Projeto Django API REST
 # Grupo: Matheus Martins dos Santos, Lucas Correia da Cruz, Lucas Martins, Gusttavo Orsi
 
-===========Tema===========
-Um sistema que adiciona, atualiza, deleta e lista livros de uma blibioteca.
-========Instruções========
+===================================Tema===================================
+ Um sistema que adiciona, atualiza, deleta e lista livros de uma blibioteca.
+================================Instruções================================
 Para usar esse sistema, é necessario o uso do aplicativo Insomnia, para poder realizar todas suas funções.
 
 1. Iniciar o Servidor.
